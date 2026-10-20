@@ -51,7 +51,7 @@ export default function LibriBrainCTA() {
             borderRadius: '20px',
             border: '1px solid rgba(255, 255, 255, 0.2)'
           }}>
-            Now Live
+            Submissions Closed
           </span>
         </div>
 
@@ -62,7 +62,7 @@ export default function LibriBrainCTA() {
           letterSpacing: '-0.02em',
           lineHeight: 1.2
         }}>
-          The PNPL Competition is Back for 2026
+          Thank You for Taking Part in the 2026 PNPL Competition
         </h2>
 
         <p style={{
@@ -73,10 +73,10 @@ export default function LibriBrainCTA() {
           margin: '0 auto 3rem auto',
           fontWeight: 300
         }}>
-          This year&rsquo;s task is <strong>Word Classification</strong>: decode which word a subject is hearing
-          from MEG brain recordings, using our new LibriBrain100 dataset &mdash; over 100 hours of MEG
-          from 33 subjects. Go <strong>Deep</strong> on a single subject or <strong>Broad</strong> across 32, and
-          enter either or both tracks. Submissions are open now and close on <strong>15 October 2026 (AoE)</strong>.
+          Teams made more than 6,800 submissions to this year&rsquo;s <strong>Word Classification</strong> task
+          on LibriBrain100, across the <strong>Deep</strong> and <strong>Broad</strong> tracks. Submissions closed
+          on 15 October 2026. We are now verifying the top-performing teams and aim to announce the final
+          standings, winners and prizes by <strong>1 December 2026</strong>.
         </p>
 
         <div style={{
@@ -87,7 +87,7 @@ export default function LibriBrainCTA() {
           alignItems: 'center'
         }}>
           <a
-            href="https://neural-processing-lab.github.io/2025-libribrain-competition/editions/2026/"
+            href="https://neural-processing-lab.github.io/2025-libribrain-competition/blog/competition-closed-verification-and-write-ups/"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -114,7 +114,7 @@ export default function LibriBrainCTA() {
               e.currentTarget.style.color = '#000';
             }}
           >
-            Join the Competition →
+            Read the Announcement →
           </a>
 
           <a
@@ -145,7 +145,7 @@ export default function LibriBrainCTA() {
               e.currentTarget.style.color = '#fff';
             }}
           >
-            View Live Leaderboard →
+            View Leaderboard →
           </a>
 
           <div style={{
@@ -163,10 +163,10 @@ export default function LibriBrainCTA() {
               <div style={{
                 width: '8px',
                 height: '8px',
-                background: '#66BB6A',
+                background: '#FFB74D',
                 borderRadius: '50%'
               }} />
-              <span>Submissions open until 15 October 2026 (AoE)</span>
+              <span>Competition concluded &mdash; verification of top teams underway</span>
             </div>
             <div style={{
               display: 'flex',
@@ -179,7 +179,9 @@ export default function LibriBrainCTA() {
                 background: '#4FC3F7',
                 borderRadius: '50%'
               }} />
-              <span>Tutorials, baselines and the open-source <code>pnpl</code> toolbox are ready to go</span>
+              <span>
+                Still working on it? <a href="https://neural-processing-lab.github.io/2025-libribrain-competition/editions/2026/submit/" target="_blank" rel="noopener noreferrer" style={{ color: '#fff' }}>Score new models</a> on the test set
+              </span>
             </div>
           </div>
         </div>
@@ -200,7 +202,7 @@ export default function LibriBrainCTA() {
               marginBottom: '0.5rem',
               color: '#fff'
             }}>
-              100+
+              6,800+
             </div>
             <div style={{
               fontSize: 'clamp(12px, 2.5vw, 14px)',
@@ -208,7 +210,7 @@ export default function LibriBrainCTA() {
               textTransform: 'uppercase',
               letterSpacing: '0.05em'
             }}>
-              Hours of MEG Data
+              Submissions
             </div>
           </div>
 
@@ -219,7 +221,7 @@ export default function LibriBrainCTA() {
               marginBottom: '0.5rem',
               color: '#fff'
             }}>
-              Deep &amp; Broad
+              94 &amp; 52
             </div>
             <div style={{
               fontSize: 'clamp(12px, 2.5vw, 14px)',
@@ -227,7 +229,7 @@ export default function LibriBrainCTA() {
               textTransform: 'uppercase',
               letterSpacing: '0.05em'
             }}>
-              Two Tracks &middot; 33 Subjects
+              Teams on Deep &amp; Broad
             </div>
           </div>
 
@@ -238,7 +240,7 @@ export default function LibriBrainCTA() {
               marginBottom: '0.5rem',
               color: '#fff'
             }}>
-              15 Oct 2026
+              1 Dec 2026
             </div>
             <div style={{
               fontSize: 'clamp(12px, 2.5vw, 14px)',
@@ -246,7 +248,7 @@ export default function LibriBrainCTA() {
               textTransform: 'uppercase',
               letterSpacing: '0.05em'
             }}>
-              Submission Deadline (AoE)
+              Winners Announced
             </div>
           </div>
         </div>
