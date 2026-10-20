@@ -180,7 +180,7 @@ export default function LibriBrainCTA() {
                 borderRadius: '50%'
               }} />
               <span>
-                Still working on it? <a href="https://neural-processing-lab.github.io/2025-libribrain-competition/editions/2026/submit/" target="_blank" rel="noopener noreferrer" style={{ color: '#fff' }}>Score new models</a> on the test set
+                Still working on it? <a href="https://neural-processing-lab.github.io/2025-libribrain-competition/editions/2026/submit/" target="_blank" rel="noopener noreferrer" style={{ color: '#fff' }}>See how you would have scored</a> on the leaderboard
               </span>
             </div>
           </div>
