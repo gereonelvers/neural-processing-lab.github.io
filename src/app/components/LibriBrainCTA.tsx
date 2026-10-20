@@ -73,7 +73,7 @@ export default function LibriBrainCTA() {
           margin: '0 auto 3rem auto',
           fontWeight: 300
         }}>
-          Teams made more than 6,800 submissions to this year&rsquo;s <strong>Word Classification</strong> task
+          Teams made almost 7,000 submissions to this year&rsquo;s <strong>Word Classification</strong> task
           on LibriBrain100, across the <strong>Deep</strong> and <strong>Broad</strong> tracks. Submissions closed
           on 15 October 2026. We are now verifying the top-performing teams and aim to announce the final
           standings, winners and prizes by <strong>1 December 2026</strong>.
@@ -202,7 +202,7 @@ export default function LibriBrainCTA() {
               marginBottom: '0.5rem',
               color: '#fff'
             }}>
-              6,800+
+              ~7,000
             </div>
             <div style={{
               fontSize: 'clamp(12px, 2.5vw, 14px)',
